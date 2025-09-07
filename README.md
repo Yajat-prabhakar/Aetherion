@@ -1,4 +1,16 @@
 # Aetherion - Advanced Space Assistant AI
+<img width="1385" height="939" alt="image" src="https://github.com/user-attachments/assets/3d6715c5-cc0d-4ff4-87cd-2e7158bb3a6d" />
+<img width="1391" height="948" alt="image" src="https://github.com/user-attachments/assets/8381ca49-c603-415c-8f56-04353cb6fcbd" />
+<img width="1395" height="952" alt="image" src="https://github.com/user-attachments/assets/e8a02a49-42a4-4625-979f-99945d05218b" />
+<img width="1395" height="953" alt="image" src="https://github.com/user-attachments/assets/55702c32-984a-4393-b584-b6373005e38e" />
+<img width="1386" height="950" alt="image" src="https://github.com/user-attachments/assets/8f3897aa-e717-4bcb-83ae-c1dfa3355d94" />
+
+Video demo (AI):
+https://docs.google.com/videos/d/1nUyW7i3wTwzIyGSHB6F7lL0VHsXKAxl3KQ9_Nu6pJeU/edit?usp=sharing
+
+Video demo (Server):
+https://drive.google.com/file/d/1nzUIjKKAAcBH4zMQ6_3gMrfogxRRdmuX/view?usp=sharing 
+
 
 **Aetherion** is an advanced AI-powered space assistant designed for astronaut monitoring, emergency detection, and automated task execution. The system provides real-time health monitoring, unconsciousness detection, voice interaction, and emergency medical guidance.
 
